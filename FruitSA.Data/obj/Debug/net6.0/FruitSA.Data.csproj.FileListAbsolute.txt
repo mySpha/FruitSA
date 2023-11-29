@@ -1,0 +1,14 @@
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\bin\Debug\net6.0\FruitSA.Data.deps.json
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\bin\Debug\net6.0\FruitSA.Data.runtimeconfig.json
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\bin\Debug\net6.0\FruitSA.Data.dll
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\bin\Debug\net6.0\FruitSA.Data.pdb
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\FruitSA.Data.csproj.AssemblyReference.cache
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\FruitSA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\FruitSA.Data.AssemblyInfoInputs.cache
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\FruitSA.Data.AssemblyInfo.cs
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\FruitSA.Data.csproj.CoreCompileInputs.cache
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\FruitSA.Data.dll
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\refint\FruitSA.Data.dll
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\FruitSA.Data.pdb
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\FruitSA.Data.genruntimeconfig.cache
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Data\obj\Debug\net6.0\ref\FruitSA.Data.dll

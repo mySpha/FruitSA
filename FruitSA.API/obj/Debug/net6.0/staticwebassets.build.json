@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NBx8UGqErIwohBSfhnWV0jSOg7vd5sABRvHiMeblHLE=",
+  "Source": "FruitSA.API",
+  "BasePath": "_content/FruitSA.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

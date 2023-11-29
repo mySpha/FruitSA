@@ -1,0 +1,12 @@
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\bin\Debug\net6.0\FruitSA.Test.deps.json
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\bin\Debug\net6.0\FruitSA.Test.dll
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\bin\Debug\net6.0\FruitSA.Test.pdb
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\FruitSA.Test.csproj.AssemblyReference.cache
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\FruitSA.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\FruitSA.Test.AssemblyInfoInputs.cache
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\FruitSA.Test.AssemblyInfo.cs
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\FruitSA.Test.csproj.CoreCompileInputs.cache
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\FruitSA.Test.dll
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\refint\FruitSA.Test.dll
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\FruitSA.Test.pdb
+C:\Users\Buthelezi\source\Repos\FruitSA\FruitSA.Test\obj\Debug\net6.0\ref\FruitSA.Test.dll
