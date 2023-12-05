@@ -7,8 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interface\" />
-    <Folder Include="Module\" />
+    <Compile Remove="Interface\**" />
+    <Compile Remove="Module\**" />
+    <EmbeddedResource Remove="Interface\**" />
+    <EmbeddedResource Remove="Module\**" />
+    <None Remove="Interface\**" />
+    <None Remove="Module\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FruitSA.Data\FruitSA.Data.csproj" />
+    <ProjectReference Include="..\FruitSA.Model\FruitSA.Model.csproj" />
   </ItemGroup>
 
 </Project>
